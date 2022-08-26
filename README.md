@@ -2,7 +2,6 @@
 
 <h1 align="center">Hi 👋, I'm Bhuwan Wankhede</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
-<img align="center" alt="Coding" width="400" src="https://simplepassivecashflow.com/wp-content/uploads/2017/11/Work-Fun.gif"> 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=bhuwan-wankhede&label=Profile%20views&color=0e75b6&style=flat" alt="bhuwan-wankhede" /> </p>
 
@@ -14,7 +13,6 @@
 
 - 📫 How to reach me **xyzzbit@gmail.com**
 
-- ⚡ Fun fact **I make friends very easily**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
